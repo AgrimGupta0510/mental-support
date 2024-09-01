@@ -1,0 +1,28 @@
+{
+  "name": "mental-support",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "mental health",
+    "support",
+    "tips",
+    "quotes",
+    "well-being",
+    "mindfulness",
+    "developer tools",
+    "motivation"
+],
+  "author": "Agrim Gupta",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0"
+  }
+}
