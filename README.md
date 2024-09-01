@@ -2,6 +2,8 @@
 
 Mental-Support is a Node.js module that provides mental health tips and inspirational quotes for developers and anyone looking to maintain a healthy mindset.
 
+Check out the NPM Package :- https://www.npmjs.com/package/mental-support
+
 ## Installation
 
 You can install the `mental-support` module via npm:
